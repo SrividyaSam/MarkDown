@@ -373,8 +373,10 @@ code {
 <li><a href="#gigavuehc3-overview">GigaVUE‑HC3 Overview</a>
 <ul>
 <li><a href="#table-2-extension-board-ports-and-leds">Table 2: Extension Board Ports and LEDs</a></li>
+<li><a href="#unpacking-the-gigavuehc3-shipment">Unpacking the GigaVUE‑HC3 Shipment</a></li>
 </ul>
 </li>
+<li><a href="#use-the-following-procedure-to-unpack-the-node">Use the following procedure to unpack the node:</a></li>
 </ul>
 </li>
 </ul>
@@ -394,45 +396,93 @@ Control card version 1 (CCv1) supports the following modules:</p>
 <li>BPS-HC3-C35C2G</li>
 </ul>
 <h3 id="table-2-extension-board-ports-and-leds">Table 2: Extension Board Ports and LEDs</h3>
-<p>LED | LED Color | Description</p>
-<p>--- | --- | --- |</p>
-<p>CON Port | — | Configure the GigaVUE‑HC3 locally over a serial terminal connection (RJ-45 console port).
-P/S | — | Reserved for future use.
-PPS(IN) | — | Reserved for future use.
-MGMT Port LEDs  | Solid Amber | Link up
-|  Blinking Green | Activity
-STACK Port LEDs | Solid Green | Link up/activity
-| Solid Amber | Disabled port
-| OFF | The Port is administratively      enabled, but the link is down</p>
-<p>PWR | OFF | Power is disconnected
-| Solid Green | Normal operation |
-| Solid Red | Fault
-M/S | OFF | Node is member node (standby or normal node) in a cluster.
-Note:  When a GigaVUE‑HC3 node is a standalone node, the M/S LED could be OFF or Solid Green, depending on whether or not it was ever the leader in a cluster previously.
-| Solid Green | Node is a leader in a cluster.</p>
-<pre class="hljs"><code><div>
-Unpacking the GigaVUE‑HC3 Shipment
-The GigaVUE‑HC3 node is shipped assembled, except for the modules. The extension board is already installed in the front of the chassis. The control card, fan tray, and two power supply modules (PSMs) are already installed in the rear of the chassis. Filler panels occupy the four front module slots and two rear PSM slots.
-The shipping package includes the chassis, an accessory kit containing standard cables and screws, a rack mounting rail kit, and the left and right sides of the optional cable management assembly.
-The modules are shipped in separate boxes.
-
-Use the following procedure to unpack the node:
-
-
-1. Inspect the shipping boxes. If any cartons were damaged, file a claim with the carrier who delivered them.
-
- 2.Open the box containing the GigaVUE‑HC3 chassis and remove the accessory kit from the top of the shipment. The accessory kit includes the power cords, console cable and adapter, and the left and right sides of the optional cable management assembly.
-
-If you plan on installing the optional cable management assembly, set aside the two parts.
-
-3.Open the module boxes and set them aside.
-
-4.Leave all protective filler panels in place in the chassis. DO NOT install the modules yet. Gigamon recommends rack-mounting the GigaVUE‑HC3 chassis without the modules because of its weight (~88lb).
-
-
-
-
-</div></code></pre>
+<table>
+<thead>
+<tr>
+<th>LED</th>
+<th>LED Color</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CON Port</td>
+<td>—</td>
+<td>Configure the GigaVUE‑HC3 locally over a serial terminal connection (RJ-45 console port).</td>
+</tr>
+<tr>
+<td>P/S</td>
+<td>—</td>
+<td>Reserved for future use.</td>
+</tr>
+<tr>
+<td>PPS(IN)</td>
+<td>—</td>
+<td>Reserved for future use.</td>
+</tr>
+<tr>
+<td>MGMT Port LEDs</td>
+<td>Solid Amber</td>
+<td>Link up</td>
+</tr>
+<tr>
+<td></td>
+<td>Blinking Green</td>
+<td>Activity</td>
+</tr>
+<tr>
+<td>STACK Port LEDs</td>
+<td>Solid Green</td>
+<td>Link up/activity</td>
+</tr>
+<tr>
+<td></td>
+<td>Solid Amber</td>
+<td>Disabled port</td>
+</tr>
+<tr>
+<td></td>
+<td>OFF</td>
+<td>The Port is administratively enabled, but the link is down</td>
+</tr>
+<tr>
+<td>PWR</td>
+<td>OFF</td>
+<td>Power is disconnected</td>
+</tr>
+<tr>
+<td></td>
+<td>Solid Green</td>
+<td>Normal operation</td>
+</tr>
+<tr>
+<td></td>
+<td>Solid Red</td>
+<td>Fault</td>
+</tr>
+<tr>
+<td>M/S</td>
+<td>OFF</td>
+<td>Node is member node (standby or normal node) in a cluster. <strong>Note</strong>:  When a GigaVUE‑HC3 node is a standalone node, the M/S LED could be OFF or Solid Green, depending on whether or not it was ever the leader in a cluster previously.</td>
+</tr>
+<tr>
+<td></td>
+<td>Solid Green</td>
+<td>Node is a leader in a cluster.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="unpacking-the-gigavue%E2%80%91hc3-shipment">Unpacking the GigaVUE‑HC3 Shipment</h3>
+<p>The GigaVUE‑HC3 node is shipped assembled, except for the modules. The extension board is already installed in the front of the chassis. The control card, fan tray, and two power supply modules (PSMs) are already installed in the rear of the chassis. Filler panels occupy the four front module slots and two rear PSM slots.</p>
+<p>The shipping package includes the chassis, an accessory kit containing standard cables and screws, a rack mounting rail kit, and the left and right sides of the optional cable management assembly.
+The modules are shipped in separate boxes.</p>
+<h2 id="use-the-following-procedure-to-unpack-the-node">Use the following procedure to unpack the node:</h2>
+<ol>
+<li>Inspect the shipping boxes. If any cartons were damaged, file a claim with the carrier who delivered them.</li>
+<li>Open the box containing the GigaVUE‑HC3 chassis and remove the accessory kit from the top of the shipment. The accessory kit includes the power cords, console cable and adapter, and the left and right sides of the optional cable management assembly.If you plan on installing the optional cable management assembly, set aside the two parts.</li>
+<li>Open the module boxes and set them aside.</li>
+<li>Leave all protective filler panels in place in the chassis. DO NOT install the modules yet. Gigamon recommends rack-mounting the GigaVUE‑HC3 chassis without the modules because of its weight (~88lb).</li>
+</ol>
 
 </body>
 </html>
