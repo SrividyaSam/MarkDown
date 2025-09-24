@@ -1,110 +1,144 @@
-- [Introducing the GigaVUE HC3 Chassis](#introducing-the-gigavue-hc3-chassis)
-	- [GigaVUE HC3 Overview](#gigavue-hc3-overview)
-	- [Control Card Version 1 (CCv1)](#control-card-version-1-ccv1)
-		- [Control card version 1 (CCv1) supports the following modules:](#control-card-version-1-ccv1-supports-the-following-modules)
-		- [Table 2: Extension Board Ports and LEDs](#table-2-extension-board-ports-and-leds)
-		- [Unpacking the GigaVUE HC3 Shipment](#unpacking-the-gigavue-hc3-shipment)
+
+![Image](/IMAGES/facebook.png)
+
+# Facebook
+
+## Create a post on Facebook
+### Quick Start Guide
+Version 1.0
+
+### Introduction
+Facebook began in February of 2004 as a school-based social network at Harvard University. created by Mark Zuckerberg along with Edward Saverin, both students at the college.
+You can post comments, share photographs, post links to news or other interesting content on the web, chat live, and watch short-form video on this social networking application.
+
+User-friendly and open to everyone. Not much of technical knowledge is required to sign up and begin posting. 
+
+Provides a customizable set of privacy controls to protect your information from getting to third-party individuals.
+
+### Key Features
+Following features allow you to connect and interact with your contacts, share content, and engage with various communities:
+
+* **Personal profiles:** Create a personal profile that includes basic information such as name, location, and education, as well as photos and videos.
+* **News feed:** Central hub, where you can see updates from your friends, pages they follow, and other relevant content.
+* **Friend requests:** You send and receive friend requests, which allows your friends to connect with other users on the platform.
+* **Messenger:** Messaging allows you to communicate with each other through text, voice, and video call.
+* **Groups:** Create groups around common interests, hobbies, or causes, allowing your contacts to connect with like-minded individuals.
+* **Pages:**  Create public profiles that businesses, organizations, and public figures can connect with audience and share updates.
+* **Events:**  Create and RSVP for events, to public or private and include details such as time, location, and guest list.
+* **Marketplace:** Allows you to buy and sell items locally.
+* **Live Streaming:**   Live stream video content to your friends and followers.
+* **Gaming:**  Gaming platform where you can play games with friends and join gaming communities.
+
+### Prerequisites
+* Phone or computer with a web browser and application installed
+* Email address or mobile number for log in creation
+* Authenticated user name and password
+
+### Create a post 
+You need to log in to your Facebook account. Once you are logged in, you will be directed to your news feed where you can view posts from friends, family, and pages that you follow. 
+Purpose to create a post:
+* Share updates, thoughts, or announcements
+* Upload media such as photos and videos
+* Engage with friends, groups, or page followers
+* Promote events, links, or business content
+
+**To create your own post, follow below steps**
+
+### Post using application on mobile
+Log in to application on mobile and follow below steps:
+
+1. **Locate the “What’s on your mind?” box:** Located usually at the top of your news feed or your Facebook profile page. 
+2. Select the text box and start typing your post. 
+   You can write a message, share an update, or ask a question.
+Choose 3 dots (...) on right pane of screen to view below options.
+3. **Photo/videos:** Select photos/videos from your device or capture photos/videos instantly by selecting camera icon to upload.
+4. **Feelings/activity:** Express how you are feeling or what you are doing by selecting on emojis and activity images. 
+5. **Check in:** Add a location to your post by selecting on the map pin icon. Useful for businesses or when you are sharing photos of places you have visited.
+6. **Background colour:** You can change the background colour of your typed text.
+7. **GIF:** Search GIFs across apps or select one of them that is displayed.
+8. **Life event:** Select category of **Life events** to remember moments from your life.
+   
+    a. Enter the title and complete the other fields on the screen.
+
+    b. You can add photos or videos if needed.
+
+    c. Select **NEXT**.
+9.  **Music:** Search music or select one of them displayed on screen.
+10. **Tag people:** Select contacts from list displayed or select from search bar on top of screen.They are notified once its posted.
+11. Select drop menu below your user name and choose your audience, before posting
+    * **Public:** Anyone can see your post
+    * **Friends:** Only people on your friends list can see your post
+    * **Custom:** You can create a custom audience by specifying which groups or individuals you want to exclude or include
+  12. **Post your update:**
+Select **POST** and your update will be shared on Facebook.
+
+### Post using browser on laptop or mobile
+Log in to application on laptop or mobile using browser and follow below steps:
+1. **Locate the “What’s on your mind?” box:** Located usually at the top of your news feed or your Facebook profile page. 
+2. Select the text box and start typing your post. 
+   You can write a message, share an update, or ask a question.
+Choose 3 dots (...) on right pane of screen to view below options.
+3. **Photo/videos:** Select photos/videos from your device or capture photos/videos instantly by selecting camera icon to upload.
+4. **Feelings/activity:** Express how you are feeling or what you are doing by selecting on emojis and activity images. 
+5. **Check in:** Add a location to your post by selecting on the map pin icon. Useful for businesses or when you are sharing photos of places you have visited.
+6. **GIF:** Search GIFs across apps or select one of them that is displayed.
+7. **Life event:** Select category of **Life events** to remember moments from your life,
+
+   a. Enter the title and complete the other fields on the screen.
+
+   b. You can add photos or videos if needed.
+
+   c. Select **NEXT**.
+8. **Tag people:** Select contacts from list displayed or select from search bar on top of screen.They are notified once its posted.
+9.  Select drop menu below your user name and choose your audience, before posting
+    * **Public:** Anyone can see your post
+    * **Friends:** Only people on your friends list can see your post
+    * **Custom:** You can create a custom audience by specifying which groups or individuals you want to exclude or include
+10. **Post your update:**
+Select **POST** and your update will be shared on Facebook.
 
 
-# Introducing the GigaVUE HC3 Chassis
-The fully-assembled GigaVUE HC3 chassis consists of a 3RU, rack-mountable, 19in-wide chassis with management, network, and tool ports at the front and power connections, fans, and access to the control card at the rear. GigaSMART is available with SMT-HC3-C05 installed in the chassis. 1Introducing the GigaVUE HC3 Chassis summarizes the bays on the front, including modules and extension board, and Rear View of the GigaVUE HC3 Chassis summarizes the rear of the GigaVUE HC3 chassis including fans and power supply modules.
+### Frequently Asked Questions
+**Can I edit or delete a post after publishing?**
 
-## GigaVUE HC3 Overview
-The GigaVUE HC3 node delivers the next-generation fabric visibility and security delivery platform. It offers high capacity in a modular 3RU footprint. It is optimized for 40Gb and 100Gb connectivity and offers port modules and high-performance GigaSMART.
+Yes.
 
-![Image](/IMAGES/windows.jpeg)
+Edit: Select the three dots (…) on your post, then choose Edit post.
 
-## Control Card Version 1 (CCv1)
-### Control card version 1 (CCv1) supports the following modules:
-* PRT-HC3-X24
-* PRT-HC3-C08Q08
-* SMT-HC3-C05
-* BPS-HC3-C25F2G
-* BPS-HC3-Q35C2G
-* BPS-HC3-C35C2G
- 
-### Table 2: Extension Board Ports and LEDs
-LED | LED Color | Description |
---- | --- | --- |
-CON Port | — |	Configure the GigaVUE HC3 locally over a serial terminal connection (RJ-45 console port).
-P/S |	— |	Reserved for future use.
-PPS(IN) |	— |	Reserved for future use.
-MGMT Port LEDs |	Solid Amber |	Link up
-|	| Blinking Green |	Activity
-STACK Port LEDs |	Solid Green |	Link up/activity
-|   | Solid Amber |	Disabled port
-|	| OFF |	The Port is administratively enabled, but the link is down.
-PWR | OFF |	Power is disconnected
-|	| Solid Green |	Normal operation
-|   | Solid Red |	Fault
-M/S | OFF |	Node is member node (standby or normal node) in a cluster. **Note**:  When a GigaVUE HC3 node is a standalone node, the M/S  LED  could be OFF or Solid Green, depending on whether or not it was ever the leader in a cluster previously.
-|  | Solid Green |	Node is a leader in a cluster.
- 
- 
-### Unpacking the GigaVUE HC3 Shipment
-The GigaVUE HC3 node is shipped assembled, except for the modules. The extension board is already installed in the front of the chassis. The control card, fan tray, and two power supply modules (PSMs) are already installed in the rear of the chassis. Filler panels occupy the four front module slots and two rear PSM slots.
-The shipping package includes the chassis, an accessory kit containing standard cables and screws, a rack mounting rail kit, and the left and right sides of the optional cable management assembly.
+Delete: Select the three dots (…) → Move to trash 
 
-The modules are shipped in separate boxes.
-Use the following procedure to unpack the node:
+**How do I check post-performance?**
 
+* On personal profiles: You can only see likes, shares, and comments.
+
+* On Pages: Use Facebook Insights to view reach, engagement, and audience stats.
+
+### Troubleshooting
+
+Issue 1: My post is not publishing.
+
+* Check your internet connection
+* Refresh the page or app
+* Try posting from another device or browser
+
+Issue 2: The app crashes when I try to post
+* Update the application from Google Play
+* Reinstall the app
+* Restart your device
   
-  * 1. Inspect the shipping boxes. If any cartons were damaged, file a claim with the carrier who delivered them
- 
-	2.	Open the box containing the GigaVUE HC3 chassis and remove the accessory kit from the top of the shipment. The accessory kit includes the power cords, console cable and adapter, and the left and right sides of the optional cable management assembly.
-    If you plan on installing the optional cable management assembly, set aside the two parts.
+### Best Practices
+Use hashtags wisely
+* Add 1 to 3 relevant hashtags
+* Avoid overstuffing posts with hashtags
 
-	3.	Open the module boxes and set them aside.
- 
-	4.	Leave all protective filler panels in place in the chassis. DO NOT install the modules yet. Gigamon recommends rack-mounting the GigaVUE HC3 chassis without the modules because of its weight (~88lb).
+Keep posts clear and concise
+* Use simple, direct language
+* Limit posts from 1 to 3 short sentences
 
- 
-<table class="table table-striped">
-<caption>Caption for this Table</caption>
-<thead class="thead-dark">
-<tr>
-    <th width="30%">Property</th>
-    <th width="70%">Description</th>
-    </tr>
-</thead>
-<tbody>
-<tr>
-    <td>Topic1 </td>
-    <td>Topic2
-        <ul>
-        <li>Bullet item</li>
-        <li>Bullet item</li>
-        </ul>
-        </td>
-    </tr>
-<tr>
-    <td>TopicA</td>
-    <td>TopicB</td>
-    </tr>
-</tbody>
-</table>
 
-<caption>Caption for this Table</caption>
-<thead class="thead-dark">
-<tr>
-    <th width="30%">Property</th>
-    <th width="70%">Description</th>
-    </tr>
-</thead>
-<tbody>
-<tr>
-    <td>Topic1 </td>
-    <td>Topic2
-        <ul>
-        <li>Bullet item</li>
-        <li>Bullet item</li>
-        </ul>
-        </td>
-    </tr>
-<tr>
-    <td>TopicA</td>
-    <td>TopicB</td>
-    </tr>
-</tbody>
-</table>
+
+
+
+
+
 
