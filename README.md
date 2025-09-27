@@ -23,7 +23,7 @@ Version 1.0
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Create a post](#create-a-post)
-  - [Post using application on mobile](#post-using-application-on-mobile)
+  - [Create post using mobile application](#create-post-using-mobile-application)
   - [Post using web browser](#post-using-web-browser)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Troubleshooting](#troubleshooting)
@@ -31,63 +31,53 @@ Version 1.0
 
 
 # Overview
-Facebook launched in February 2004 as a school-based social network at Harvard University. It was created by Mark Zuckerberg and Eduardo Saverin, who were both students at the time.
-
-**Purpose to create a post**
-* Share updates, thoughts, or announcements.
-* Upload media such as photos and videos.
-* Engage with friends, groups, or page followers.
-* Promote events, links, or business content.
-  
-
+Facebook launched in February 2004 as a school-based social network at Harvard University.Mark Zuckerberg and Eduardo Saverin, both students at the time, created the platform
 
 **Flow to create a post**
 
 ![Image](IMAGES/flowfacebook5.png)
 
 **Purpose of this guide**  
-                                   This guide helps you to understand how to create a post on Facebook. It also helps you to understand how to attach different media options for your post.
+                                   This guide explains how to create a post on Facebook and how to attach different media options for your post.
 
 
 # Prerequisites
-* Phone or computer with a web browser and application installed.
-* Registered email or phone number and password.
+* A phone with Facebook application or computer with a web browser  installed.
+* A registered email address or phone number and password.
 
 # Create a post  
-You need to log in to your Facebook account. After you are logged in, you are directed to news feed where you can view posts from friends, family, and pages that you follow. 
-
-**Before posting choose your audience**.
- 1. Below your name, select the audience selector drop-down on **Create post** screen.
-     * **Friends:** Anyone can see your post.
-     *  **Friends except:** Exclude specific people.
-     *  **Specific friends:** Share only with chosen people.
-    * **Close friends:** You can create a custom audience by specifying which groups or individuals you want to exclude or include.   
+Creating a post lets you share updates, media, and activities with friends, groups, or followers. You can create posts using the mobile app or a web browser.You can also promote events, links, or business content.
 
 
-## Post using application on mobile
+1. Log in to your Facebook account.
+2. After you log in, home page appears. You see posts from friends, family, and the pages you follow.
+3. Before you post, choose your audience.
+* Select the audience selector drop-down below your name on the  **Create Post** screen.
+     * __Friends:__ Share your post with all your friends.
+     * __Friends except:__ Exclude specific people.
+     * __Specific friends:__ Share only with chosen people.
+     * __Close friends:__ Create a custom audience by including or excluding specific groups or individuals  
+
+
+## Create post using mobile application
 Create your own post by logging in to mobile application and follow below steps.
 
-**Post text message**   
-You can only share text as your post.
+**Post a text message**   
+You can share text as your post.
 
-To create a text post, do one of the following:
-1.  On your home screen, locate **What’s on your mind?** at the top of the screen.
-2.  From the Menu (three-line icon on the right pane).
-    *   Select your profile picture.
-    *   Scroll down and locate **What’s on your mind?**.
-3. From your home page.
-   * Select your profile picture.
-    * Scroll down and locate **What’s on your mind?**.
-4. Type the text in **What’s on your mind?**.
-5. Select **POST**.  
-   Your post now appears on home screen.
+1. On your home screen, select **What’s on your mind?** at the top.
+  * Or, open the **Menu** (three-line icon), select your profile picture, scroll down, and select **What’s on your mind?**.
+   * Or, from your profile page, scroll down and select **What’s on your mind?**.
+2. Type your text.
+3. Select **Post**.   
+   Your post now appears on your home screen.
 
 **Change the background of a text message**   
 You can set background colours for your text message.
-1. Select **What’s on your mind?** and then select **Background colour**
-2. Choose background colours for your text. Select six dots on right pane for few more colours.
-3. Select **Next** and **POST**.   
-   Your post is now shared.
+1. Select **What’s on your mind?**,then select **Background colour**
+2. Choose a background colour.Select six dots on right pane to see more colours.
+3. Select **Next**,then **POST**.   
+   Your text post is now shared with a background color.
 
 
 **Share an image**   
@@ -95,190 +85,196 @@ You can attach photos to your post.
 1. Select **What’s on your mind?** and choose **Photo/video.**
 2. Browse and upload image from your device gallery.
 3. Select **Next**.
-4. To add few more images, select **Add More** on below pane.
-5. Type your text in **Say something about this photo..**           (optional).
+4. To add more images, select **Add More** on below pane.
+5. (Optional) Enter text in **Say something about this photo..** .
 6. Select **POST**.   
-   Your image is now shared.
+   Your image post is now shared.
 
-**Share an video**   
+**Share a video**   
 You can attach videos to your post.
 1. Select **What’s on your mind?** and choose **Photo/video.**
-1. Browse and upload video from your device gallery.
+1. Select and upload a video from your device gallery.
 3. Select **Next**.
-4. To add few more images, select **Add More** on below pane.
-5. Type your text in **Say something about this photo..**           (optional).
+4. To add more videos, select **Add More** on below pane.
+5. (Optional) Enter text in **Say something about this photo..**
 6. Select **POST**.   
-   Your video is now shared.
+   Your video post is now shared.
 
 **Share Photo/videos using Camera**    
 You can attach photos and videos to your post by instant capture.
 1. Select **What’s on your mind?** and choose **Camera.**
 2. Allow camera access.
-3. Capture photo or video instantly and select **DONE**.
-4. To add few more photos/video,select **Add More** on below pane.
-5. Type your text in **Say something about this photo..**           (optional).
+3. Capture a photo or video,the select **DONE**.
+4. To add more photos or video,select **Add More** on below pane.
+5. (Optional) Enter text in **Say something about this photo..**           (optional).
 6. Select **POST**.   
-   Your captured Photo/video is now shared.
+   Your captured Photo or video is now shared.
 
 **Share Feeling/activity**  
 You express how you are feeling or what you are doing by selecting on emojis and activity images.
 1. Select **What’s on your mind?** and choose **Feeling/activity**.          
-2.  Choose emojis.
-3.  Goto **ACTIVITIES** tab and select images that are displayed or by searching in search bar.
+2.  Select an emojis.
+3.  Go to the **ACTIVITIES** tab and select an activity, or by search for one.
 4. Select **POST**.   
-   Your activity images is now shared.
+   Your feeling or activity is now shared.
 
 **Share Check in**  
 You post your location. Useful for businesses or when you are sharing photos of places you have visited.
 1. Select **What’s on your mind?** and choose **Check in**.  
-2.  Search the place in search bar or select from places that is displayed.
+2. Search for a location or select one from the list.
 3. Select **POST**.   
    Your location is now shared.
 
 **Share GIF**   
 You post GIF images.
 1. Select **What’s on your mind?** and choose **GIF**.  
-2.  Search the image in search bar or select from images that is displayed.
-3. If you want to text you can type in **Say something about this photo**.   
+2. Search for a GIF or select one from the list.
+3. (Optional) Enter text in **Say something about this photo**.   
 4. Select **POST**.  
-   Your GIF image is now shared. 
+   Your GIF is now shared. 
 
 
 **Share Life event**   
 Share and remember important moments from your life.     
 1. Select **What’s on your mind?** and choose **Life event**.  
 1. Select a category.
-2. Enter the title and complete the other fields on the screen.
-3. If you want,you can add photos or videos.
-4. Select **NEXT** and **POST**.   
-   Your event is now shared.
+2. Enter the title and complete the fields on the screen.
+3. (Optional)Add photos or videos.
+4. Select **NEXT**,then **POST**.   
+   Your life event is now shared.
 
 **Share Music**   
 You can share music.
 1. Select **What’s on your mind?** and choose **Music**. 
-2. Search the music in search bar or select from files that is displayed.
-4. Select **Done** and **POST**.   
+2. Search for a song or select one from the list.
+4. Select **Done**,then **POST**.   
    Your music is now shared.
 
 **Tag friends in a post**   
 Tag friends in your text posts, photos, videos, life events, activities, or check-ins. When you tag someone, they receive a notification. Tagging also adds context to the post by involving people.
 
 1. Select **What’s on your mind?**. 
-2. Type your text, choose your media files to attach or upload.
+2. Type your text and (optional)attach media.
 3. Select **Tag people**.
-4. Choose from the people displayed, or search for someone in the search bar.
+4. Choose from the suggested people, or search for people.
 5. Select **POST**.
    Your post is now shared with tagged audience.
 
 **Share Live video**   
 You can share Live video.
-1. Select **What’s on your mind?** and choose **Live video**.   
+
+1. Choose one of the following:
+* Select What’s on your mind? and choose **Live video**.
+* Open the Menu (top right), select your profile, scroll down, and select **Live**.
+* From your profile (left pane), scroll down and select **Live**.  
 2. Allow camera and microphone access.
 3. Add details:
-   * Write description
-   * Choose your audience
-   * Tag people, add location or Feeling/activity (optional)
+   * Write a description.
+   * Choose your audience.
+   * (Optional) Tag people, add a location, or select a feeling/activity.
 4. Select **Go Live** to start broadcasting.
-5. When finished select **Finish** and **Done**.   
-   Video will be posted on your home screen.   
+5. When finished select **Finish**,then **Done**.   
+   Your live video is now posted on your home screen.   
 
 
 ## Post using web browser
 Create your own post by logging in to web browser and follow below steps.
 
 **Post text message**   
-You can only share text as your post.
+You can share text as your post.
 
-To create a text post, do one of the following:
-1.  On your home page, locate **What’s on your mind?** at the top of the page.
-2.  From the Menu (three-line icon on the right pane).
-    *   Select your profile picture.
-    *   Scroll down and locate **What’s on your mind?**.
-3. Select the profile picture on top right pane.
-   * Select your user name.
-   * Scroll down and locate **What’s on your mind?**.
-1. Select the profile picture on top left pane and locate **What’s on your mind?**.
-2. Select **POST**.  
-   Your post now appears on home page.
+1. On your home page, select **What’s on your mind?** at the top.
+  * Or, open the Menu (three-line icon), select your profile picture, scroll down, and select **What’s on your mind?**.
+  * Or, select your profile picture on the top-right pane, choose your user name, scroll down, and select **What’s on your mind?**.
+   * Or, select your profile picture on the top-left pane and locate **What’s on your mind?**.
+2. Type your text.
+3. Select **Post**.
+   Your text post now appears on your home page.
+
+
 
 **Change the background of a text message**  
 You can set background colours for your text message(optional)
-1. Select **What’s on your mind?** and then select a small square on left pane with text **Aa**.
-2. Choose background colours for your text. Select four dots on right pane for few more colours.
+1. Select **What’s on your mind?**, then select the small square (Aa) on the left pane.
+2. Choose a background color. Select the four dots on the right pane to see more colors.
 3. Select **POST**.   
-   Your post is now shared.
+   YYour text post is now shared with a background color.
 
-**Share an image**   
-You can attach photos to your post.
-1. To share image choose one the following:
-   * Select **What’s on your mind?** and choose **Photo/video.**. 
-   * Select **Photo/video** below **What’s on your mind?** on the home page.
-1. Browse and upload image from your device gallery.
+**Share an image**          
+1. Select one of the following:
+  * What’s on your mind? → Photo/video.
+  * Photo/video below What’s on your mind? on the Home page
+
+2. Upload an image from your device.
 3. Select **Next**.
-4. To add few more images, select **Add More** on below pane.
-5. Type your text in **Say something about this photo..**           (optional).
-6. Select **POST**.   
+4. (Optional) Select Add More to upload more images.
+5. (Optional) Enter text in **Say something about this photo..**.
+6. Select Post.
    Your image is now shared.
 
-**Share an video**   
+
+**Share an video**  
 You can attach video to your post.
-1. To share image choose one the following:
-   * Select **What’s on your mind?** and choose **Photo/video.**. 
-   * Select **Photo/video** below **What’s on your mind?** on the home page.
-1. Browse and upload video from your device gallery.
+
+1. Choose one of the following:
+* Select **What’s on your mind?** and choose Photo/video.
+* Or, select Photo/video below **What’s on your mind?** on the home page.
+2. Upload a video from your device.
 3. Select **Next**.
-4. To add few more images, select **Add More** on below pane.
-5. Type your text in **Say something about this photo..**           (optional).
-6. Select **POST**.   
+4. To add more videos, select Add More.
+5. (Optional) Enter text in **Say something about this video…**.
+6. Select Post.
    Your video is now shared.
+
 
 **Share Feeling/activity**  
 You express how you are feeling or what you are doing by selecting on emojis and activity images.
-1. To share image choose one the following:
-   * Select **What’s on your mind?** and choose **Feeling/activity**. 
-   * Select **Feeling/activity** below **What’s on your mind?** on the home page.
-2.  Choose emojis.
-3.  Goto **ACTIVITIES** tab and select images that are displayed or by searching in search bar.
-4. Select **POST**.   
-   Your activity images are is now shared.
+
+1. Choose one of the following:
+ * Select **What’s on your mind?** and choose Feeling/activity.
+ * Or, select Feeling/activity below **What’s on your mind?** on the home page.
+2. Select an emoji.
+3. Go to the **Activities** tab and select an activity, or search for one.
+4. Select Post.
+   Your feeling or activity is now shared.
 
 **Share Check in**  
 You post your location. Useful for businesses or when you are sharing photos of places you have visited.
 1. Select **What’s on your mind?** and choose **Check in**.  
-2. Search the place in search bar or select from places that is displayed.
+2. Search for a location or select one from the list.
 3. Select **POST**.   
    Your location is now shared.
 
 **Share GIF**   
 You post GIF images.
 1. Select **What’s on your mind?** and choose **GIF**.  
-2.  Search the image in search bar or select from images that is displayed.
-3. Type in **What’s on your mind?**(optional).
+2. Search for a GIF or select one from the list.
+3. (Optional) Enter text in **What’s on your mind?**.
 4. Select **POST**.  
    Your GIF image is now shared. 
 
 **Share Life event**   
 Share and remember important moments from your life.     
 1. Select **What’s on your mind?**.
-2. Choose three dots on right pane and select **Life event**.  
+2. Select the three dots on right pane and select **Life event**.  
 3. Select a category.
-4. Enter the title and complete the other fields on the screen.
-5. You can add **Photos/Videos**(optional).
-6. Select **DONE** and **POST**.   
-   Your event is now shared.
+4. Enter the title and complete the fields on the screen.
+5. (Optional) Add photos or videos.
+6. Select **DONE**,then **POST**.   
+   Your life event is now shared.
 
 **Share Live video**   
 You can share Live video.
 1. To share **Live video** choose one the following:
    * Select **What’s on your mind?** and choose **Live video**. 
    * Select **Live video** below **What’s on your mind?** on the home page.
-3. Select a video source as **Webcam** (or **Streaming software** if you are using OBS, Streamlabs)
-4. Select **Go Live** on left pane
-5. Type in **Add title**
+3. Select a video source as **Webcam** or **Streaming software** (OBS, Streamlabs)
+4. On left pane,select **Go Live**.
+5. Enter a title in **Add title**
 6. Check your camera/microphone preview.
 7. Select **Go Live** to start streaming.
 8. When finished, select **End Live Video**.  
-   The recording is saved and shared on your home page.
+   Your recording is saved and shared on your home page.
 
 **Tag friends in a post**   
 Tag friends in your text posts, photos, videos, life events, activities, or check-ins. When you tag someone, they receive a notification. Tagging also adds context to the post by involving people.
@@ -286,21 +282,20 @@ Tag friends in your text posts, photos, videos, life events, activities, or chec
 1. Select **What’s on your mind?**. 
 2. Type your text, choose your media files to attach or upload.
 3. Select **Tag people**.
-4. Choose from the people displayed, or search for someone in the search bar.
+4. Choose from the list, or search for people.
 5. Select **POST**.
    Your post is now shared with tagged audience.
 
 
 
 # Frequently Asked Questions
-**Can I edit or delete a post after publishing?**                
-Yes  
-* Edit: Select the three dots (…) on your post, then choose Edit post.
-* Delete: Select the three dots (…) → Move to trash 
+**Can I edit or delete a post after publishing?**      
+* **Edit:** Select the three dots (…) on your post, then choose Edit post.
+* **Delete:** Select the three dots (…) → Move to trash 
 
 **How do I check post-performance?**
-* On personal profiles: You can only see likes, shares, and comments.
-* On Pages: Use Facebook Insights to view reach, engagement and audience stats.
+* **On personal profiles:** You can only see likes, shares, and comments.
+* **On Pages:** Use Facebook insights to view reach, engagement and audience statistics.
 
 # Troubleshooting
 
@@ -310,15 +305,15 @@ Yes
 * Try posting from another device or browser.
 
 **Issue 2:** The app crashes when I try to post.
-* Update the application from google play.
+* Update the application from google play(or App Store)
 * Reinstall the app.
 * Restart your device.
   
 # Best Practices
-* Use 1 to 3 relevant hashtags.
-* Keep your color scheme clean and consistent
+* Use 1-3 relevant hashtags.
+* Keep your color scheme clean and consistent.
 * Use simple and direct language.
-* Limit posts for about 1 to 3 short sentences.
+* Limit posts for about 1-3 short sentences.
 
 
 
