@@ -176,8 +176,8 @@ You can share Live video.
 
 1. Choose one of the following:
     * On home screen, select **What’s on your mind?**, then choose **Live video**.
-    * Open the menu (top right), select your profile, scroll down, and select **Live**.
-    * From your profile (left pane), scroll down and select **Live**.  
+    * Open the menu in the top-right corner, select your profile, scroll to the **What’s on your mind?**, and then select **Live**.
+    * From your profile in the left pane, scroll to the **What’s on your mind?**, and then select **Live**.
 1. Allow camera and microphone access.
 2. Add details.
    * Write a description.
@@ -193,8 +193,8 @@ Tag friends in your text posts, photos, videos, life events, activities, or chec
 1. On home screen, select **What’s on your mind?**. 
 2. Type your text and attach media(optional).
 3. Select **Tag people**.
-4. Choose from the suggested people or search for people.
-5. Select **POST**.
+4. Choose from the list or search for people.
+5. Select **POST**.   
    Your post is now shared with tagged audience.
 
 ## Post using web browser
@@ -208,27 +208,27 @@ You can share text as your post.
    * Select your profile picture on the top-right pane, choose your name, scroll down, and select **What’s on your mind?**.
    * Select your profile picture on the top-left pane and locate **What’s on your mind?**.
 1. Type your text.
-2. Select **Post**.
+2. Select **Post**.   
    Your text post now appears on your home page.
 
 ### Change the background of a text message 
 You can set background colours for your text message(optional).
 1. On your home page, select **What’s on your mind?**, then select the small square (Aa) on the left pane.
 2. Choose a background color. Select the four dots on the right pane to see more colors.
-3. Select **POST**.   
+3. Select **POST**.    
    Your text post is now shared with a background color.
 
 ### Share an image
 You can attach photos to your post.          
 1. Choose one of the following:
     * On home page, select **What’s on your mind?**, then select **Photo/video**.
-    * Open the menu (top right), select your profile, scroll down, and select **Photo/video**.
-    * From your profile (left pane), scroll down and select **Photo/video**. .
+    * Open the menu in the top-right corner, select your profile, scroll to the **What’s on your mind?**, and then select **Photo/video**.
+    * From your profile in the left pane, scroll to the **What’s on your mind?**, and then select **Photo/video**.
 2. Upload an image from your device.
 3. Select **Next**.
 4. (Optional) Select **Add More** to upload more images.
 5. (Optional) Enter text in **Say something about this photo..**.
-6. Select Post.
+6. Select Post.  
    Your image is now shared.
 
 
@@ -237,26 +237,23 @@ You can attach video to your post.
 
 1. Choose one of the following:
     * On home page, select **What’s on your mind?**, then select **Photo/video**.
-    * Open the menu (top right), select your profile, scroll down, and select **Photo/video**.
-    * From your profile (left pane), scroll down and select **Photo/video**. 
+    * Open the menu in the top-right corner, select your profile, scroll to the **What’s on your mind?**, and then select **Photo/video**.
+    * From your profile in the left pane, scroll to the **What’s on your mind?**, and then select **Photo/video**.
 1. Upload a video from your device.
 2. Select **Next**.
 3. To add more videos, select **Add More**.
 4. (Optional) Enter text in **Say something about this video…**.
-5. Select Post.
+5. Select Post.  
    Your video is now shared.
 
 
 ### Share Feeling/activity  
 You express how you are feeling or what you are doing by selecting on emojis and activity images.
 
-1. Choose one of the following:
-    * On home page, select **What’s on your mind?**, then select **Feeling/activity**.
-    * Open the menu (top right), select your profile, scroll down, and select **Feeling/activity**.
-    * From your profile (left pane), scroll down and select **Feeling/activity**. 
+1. On home page, select **What’s on your mind?**, then select **Feeling/activity**.
 2. Select an emoji.
 3. Go to the **Activities** tab and select an activity or search one from list.
-4. Select Post.
+4. Select Post.  
    Your feeling or activity is now shared.
 
 ### Share Check in
@@ -276,21 +273,23 @@ You post GIF images.
 
 ### Share Life event
 Share and remember important moments from your life.     
-1. On your home page, select **What’s on your mind?**.
-2. Select the three dots on right pane and select **Life event**.  
-3. Select a category.
-4. Enter the title and complete the fields on the screen.
-5. (Optional) Add **Photos/Videos**.
-6. Select **DONE**, then **POST**.   
+1. Choose one of the following:
+    * On home page, select **What’s on your mind?**, then select the three dots(...) on right pane and select **Life event**.
+    * Open the menu in the top-right corner, select your profile, scroll to the **What’s on your mind?**, and then select **Life event**.
+    * From your profile in the left pane, scroll to the **What’s on your mind?**, and then select **Life event**.  
+4. Select a category.
+5. Enter the title and complete the fields on the screen.
+6. (Optional) Add **Photos/Videos**.
+7. Select **DONE**, then **POST**.   
    Your life event is now shared.
 
 ### Share Live video  
 You can share Live video.
 1. Choose one of the following:
     * On home page, select **What’s on your mind?**, then select **Live video**.
-    * Open the menu (top right), select your profile, scroll down, and select **Live**.
-    * From your profile (left pane), scroll down and select **Live**.
-2. Select a video source as **Webcam** or **Streaming software** (OBS, Streamlabs)
+    * Open the menu in the top-right corner, select your profile, scroll to the **What’s on your mind?**, and then select **Live**.
+    * From your profile in the left pane, scroll to the **What’s on your mind?**, and then select **Live**.
+2. Select a video source as **Webcam** or **Streaming software** (OBS, Streamlabs).
 3. On left pane,select **Go Live**.
 4. Enter a title in **Add title**.
 5. Check your camera/microphone preview.
@@ -302,7 +301,7 @@ You can share Live video.
 Tag friends in your text posts, photos, videos, life events, activities, or check-ins. When you tag someone, they receive a notification. Tagging also adds context to the post by involving people.
 
 1. On your home page, select **What’s on your mind?**. 
-2. Type your text, choose your media files to attach or upload.
+2. Type your text and attach media(optional).
 3. Select **Tag people**.
 4. Choose from the list or search for people.
 5. Select **POST**.  
